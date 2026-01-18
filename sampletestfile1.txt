@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-
-dkhkdsfhkdshfkdshckfhkj
-This is 1
-
-This is 1
-57041ffcb37f4b1
-=======
-This is 1
->>>>>>> c3be5dc50cc79bd739265032757041ffcb37f4b1
+this is 2
