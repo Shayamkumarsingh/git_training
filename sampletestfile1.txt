@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 dkhkdsfhkdshfkdshckfhkj
 
 
@@ -7,6 +8,9 @@ dkhkdsfhkdshfkdshckfhkj
 188732
 
 
+=======
+This is 1
+>>>>>>> c3be5dc50cc79bd739265032757041ffcb37f4b1
 =======
 This is 1
 >>>>>>> c3be5dc50cc79bd739265032757041ffcb37f4b1
