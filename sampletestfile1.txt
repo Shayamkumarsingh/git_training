@@ -2,3 +2,4 @@ this is main file
 
 this i have to make main
 this is stash in file 1
+this is stash in file 1 after first stash
