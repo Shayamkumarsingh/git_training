@@ -1,1 +1,2 @@
 This is 2
+this is stash in file 2
