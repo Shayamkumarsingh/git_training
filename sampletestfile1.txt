@@ -4,3 +4,10 @@ this i have to make main
 this is stash in file 1
 this is stash in file 1 after first stash
 this is stash for tracked file of file 1
+
+
+
+
+
+
+THIS IS FOR REVERT 
